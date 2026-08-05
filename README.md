@@ -1,4 +1,4 @@
-# Stephen Ragsdale
+# Hi, I'm Stephen!
 
 Senior Product Manager in Indianapolis.
 
