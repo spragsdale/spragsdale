@@ -2,7 +2,7 @@
 
 Senior Product Manager in Indianapolis.
 
-I build product with engineers: platforms, data intake, and tooling for internal ops and external users. A lot of the work starts before the problem is fully defined. I care about getting from messy discovery to something a team can ship.
+I build products with engineers: platforms, data intake, and tooling for internal ops and external users. A lot of the work starts before the problem is fully defined. I care about getting from messy discovery to something a team can ship.
 
 AI is part of how I work with design and engineering day to day. I use it to move faster on discovery, design, and requirements.
 
